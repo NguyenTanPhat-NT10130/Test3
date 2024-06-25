@@ -1,0 +1,15 @@
+D:\HocTap\SA\WebServer\bin\Debug\net7.0\WebServer.exe
+D:\HocTap\SA\WebServer\bin\Debug\net7.0\WebServer.deps.json
+D:\HocTap\SA\WebServer\bin\Debug\net7.0\WebServer.runtimeconfig.json
+D:\HocTap\SA\WebServer\bin\Debug\net7.0\WebServer.dll
+D:\HocTap\SA\WebServer\bin\Debug\net7.0\WebServer.pdb
+D:\HocTap\SA\WebServer\obj\Debug\net7.0\WebServer.csproj.AssemblyReference.cache
+D:\HocTap\SA\WebServer\obj\Debug\net7.0\WebServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\SA\WebServer\obj\Debug\net7.0\WebServer.AssemblyInfoInputs.cache
+D:\HocTap\SA\WebServer\obj\Debug\net7.0\WebServer.AssemblyInfo.cs
+D:\HocTap\SA\WebServer\obj\Debug\net7.0\WebServer.csproj.CoreCompileInputs.cache
+D:\HocTap\SA\WebServer\obj\Debug\net7.0\WebServer.dll
+D:\HocTap\SA\WebServer\obj\Debug\net7.0\refint\WebServer.dll
+D:\HocTap\SA\WebServer\obj\Debug\net7.0\WebServer.pdb
+D:\HocTap\SA\WebServer\obj\Debug\net7.0\WebServer.genruntimeconfig.cache
+D:\HocTap\SA\WebServer\obj\Debug\net7.0\ref\WebServer.dll
